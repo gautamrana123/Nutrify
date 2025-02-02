@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+langchain-mistralai==0.2.4
+groq
+python-dotenv
+langchain
+asyncio
+langserve
+python-multipart
+sse_starlette
